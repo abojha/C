@@ -1,2 +1,1 @@
-if(b.height<41)
-    return 1;
+#include<stdio.h>
